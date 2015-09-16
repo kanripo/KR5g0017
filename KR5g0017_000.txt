@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-29 02:25:32.283712
+# -*- mode: mandoku-view -*-
 #+TITLE: 太上三五正一盟威籙
-#+PROPERTY: DZID  DZ1208
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，28—426 六卷 正一部
+#+DATE: 2015-08-29 02:25:33
+#+PROPERTY:  LASTPB <PB KR5g0017_SJB_006-280457a>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+¶¶<md:KR5g0017_HFL_006-027b>¶¶¶¶¶¶¶¶¶¶¶
+
